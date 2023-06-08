@@ -1,0 +1,24 @@
+---
+title: "I love blogging"
+description: |
+  Just how much I enjoy writing about Health Data Science topics .
+author:
+  - name: Reeba Jadoon
+date: 2023-06-08
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+These are some thoughts about how useful blogging is for self-reflection on Health Data Science as well as self promotion.
+
+```{r, echo = TRUE}
+plot(iris)
+```
+
+
